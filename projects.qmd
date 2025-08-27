@@ -1,0 +1,19 @@
+---
+title: "Projetos"
+---
+
+# 🚀 Projetos
+
+-   **Marinha do Brasil**\
+    Automatização de empréstimos utilizando análise de dados.
+
+-   **Precision Data**\
+    Desenvolvimento de algoritmo de **GANs** para geração de dados sintéticos.
+
+-   **Vasart**\
+    Criação de dashboards em **Power BI** para indicadores de negócio.
+
+-   **Outros Projetos Pessoais**
+
+    -   Modelos preditivos com Python (scikit-learn, PyTorch).\
+    -   Automação de relatórios e integração com bancos de dados.

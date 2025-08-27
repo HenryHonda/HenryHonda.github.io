@@ -1,9 +1,17 @@
 ---
-title: "About"
+title: "Sobre Mim"
 ---
 
-About this site
+# 👤 Sobre Mim
 
-```{r}
-1 + 1
-```
+Sou **Henry Honda**, estudante de Estatística na UNICAMP, apaixonado por **ciência de dados, machine learning e estratégias de mercado**.
+
+Na **Quanta Jr.**, além de atuar em projetos de dados e automação, fui responsável por estruturar toda a **área de Branding**, liderando o fechamento de parcerias estratégicas com empresas como **Samsung** e **Accenture**.
+
+Consegui recuperar o **Google Ads Grants** após anos de inatividade, aumentando a presença digital da empresa, e fui responsável pelo **Blog da Quanta Jr.** e por toda a estratégia de marketing e comunicação.
+
+Também liderei a venda de **projetos que somam mais de R\$ 10.000,00**, mostrando minha experiência tanto em **dados quanto em negócios**.
+
+📍 São Paulo - SP\
+📧 henrykoiti\@outlook.com\
+📞 (11) 95973-0604

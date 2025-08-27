@@ -1,11 +1,9 @@
 ---
-title: "Protifolio Pessoal"
+title: "Portfólio Pessoal"
 ---
 
-This is a Quarto website.
+# Bem-vindo ao meu Portfólio 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Aqui você encontra informações sobre mim, meus projetos e experiências em **Estatística, Análise de Dados e Machine Learning**.
 
-```{r}
-1 + 1
-```
+Sou **Henry Honda**, estudante de Estatística na UNICAMP, com experiência em **Python, Power BI, Streamlit e Machine Learning**.
