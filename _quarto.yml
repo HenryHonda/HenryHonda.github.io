@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Meu Portfólio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projetos
+      - href: experience.qmd
+        text: Experiência
+      - href: education.qmd
+        text: Formação
+      - href: skills.qmd
+        text: Skills
+      - about.qmd
